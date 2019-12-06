@@ -6,6 +6,11 @@ This **unofficial** app shows all stations for Bratislava bike sharing. If you w
 
 ---
 
+## Send feedback
+If you feel you want to contribute to features of this app just open new issue.
+
+---
+
 ![iPhone screenshot](/Images/iphone-image.jpg)
 
 ---
