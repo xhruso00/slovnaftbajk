@@ -12,6 +12,7 @@ If you feel you want to contribute to features of this app just open new issue.
 ---
 
 ![iPhone screenshot](/Images/iphone-image.jpg)
+![iPhone screenshot](/Images/iphone-image2.jpg)
 
 ---
 
