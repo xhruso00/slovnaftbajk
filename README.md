@@ -2,12 +2,12 @@
 
 
 ## Description
-This **unofficial** app shows all stations for Bratislava bike sharing. If you want to rent a bike in Bratislava you need to purchase a program using [https://www.slovnaftbajk.sk/]()  This app was created before official one. It can quickly display all stations around you with the number of available bikes and dock right after you open app. This Github page also documents list of commands used by the official app (iOS/Android)
+This **unofficial** app shows all stations for Bratislava bike sharing. If you want to rent a bike in Bratislava you need to purchase a program using [https://www.slovnaftbajk.sk/]()  This app was created before official one. It can quickly display all stations around you with the number of available bikes and dock right after you open app. It can also display your trips with details way more easily than official app. On top it offers data export to Health app / GPX file / KML file (in-app purchase required).
 
 ---
 
 ## Send feedback
-If you feel you want to contribute to features of this app just open new issue.
+If you feel you want to contribute to features of this app just open new issue. If you need support you can email me at xhruso00 (at) gmail (dot) com 
 
 ---
 
