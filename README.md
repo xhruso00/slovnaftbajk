@@ -28,5 +28,6 @@ Link to download official SlovnaftBajk (Android) [app](  https://play.google.com
 ## Privacy policy
 ### Data storage
  * Bike Bratislava (SlovnaftBAJK) doesn't collect any user data.
+ 
 ### Crash reporting
  * Bike Bratislava (SlovnaftBAJK) collects crash logs automatically. Crash reports help us fix bugs quickly. Crash logs do not contain any personal information until you provide it by yourself.
