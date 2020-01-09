@@ -24,3 +24,9 @@ Link to download unofficial BAJK Bratislava (iOS) [app]( https://apps.apple.com/
 Link to download official SlovnaftBajk (iOS) [app](  https://apps.apple.com/app/slovnaftbajk/id1364531772) from iOS App Store.
 
 Link to download official SlovnaftBajk (Android) [app](  https://play.google.com/store/apps/details?id=hu.cycleme.slovnaftbajk&hl=sk) from iOS App Store.
+
+## Privacy policy
+### Data storage
+  *Bike Bratislava (SlovnaftBAJK) doens't collect any user data.
+### Crash reporting
+  *Bike Bratislava (SlovnaftBAJK) collects crash logs automatically. Crash reports help us fix bugs quickly. Crash logs do not contain any personal information until you provide it by yourself.
